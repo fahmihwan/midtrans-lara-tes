@@ -24,7 +24,7 @@
                 @csrf
                 <div class="mb-3">
                     <label for="nama" class="form-label">Nama</label>
-                    <input type="text" class="form-control" id="name" placeholder="nama" name="name">
+                    <input type="text" class="form-control" id="name" placeholder="nama " name="name">
                 </div>
                 <div class="mb-3">
                     <label for="email" class="form-label">Email address</label>
